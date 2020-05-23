@@ -1,0 +1,1542 @@
+{
+  "NNP NNP": {
+    "NNP": {
+      "Right": 355,
+      "Left": 55
+    }
+  },
+  "NNP VB": {
+    "VB": {
+      "Right": 8,
+      "Left": 0
+    }
+  },
+  "NNP ,": {
+    "NNP": {
+      "Left": 104
+    }
+  },
+  "CD NNS": {
+    "NNS": {
+      "Right": 42,
+      "Left": 0
+    },
+    "CD": {
+      "Left": 3
+    }
+  },
+  "NNS JJ": {
+    "JJ": {
+      "Right": 5,
+      "Left": 0
+    },
+    "NNS": {
+      "Left": 6
+    }
+  },
+  "NNP JJ": {
+    "NNP": {
+      "Left": 4
+    }
+  },
+  "MD VB": {
+    "VB": {
+      "Right": 29,
+      "Left": 0
+    }
+  },
+  "DT NN": {
+    "NN": {
+      "Right": 280,
+      "Left": 0
+    }
+  },
+  "VB NN": {
+    "VB": {
+      "Left": 72
+    },
+    "NN": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "IN NN": {
+    "NN": {
+      "Right": 171,
+      "Left": 0
+    }
+  },
+  "JJ NN": {
+    "NN": {
+      "Right": 171,
+      "Left": 0
+    },
+    "JJ": {
+      "Left": 7
+    }
+  },
+  "VB NNP": {
+    "VB": {
+      "Left": 9
+    }
+  },
+  "NNP CD": {
+    "NNP": {
+      "Left": 19
+    }
+  },
+  "VB .": {
+    "VB": {
+      "Left": 9
+    }
+  },
+  "NNP VBN": {
+    "VBN": {
+      "Right": 22,
+      "Left": 0
+    },
+    "NNP": {
+      "Left": 2
+    }
+  },
+  "JJ CC": {
+    "JJ": {
+      "Left": 6
+    }
+  },
+  "IN NNP": {
+    "NNP": {
+      "Right": 93,
+      "Left": 0
+    }
+  },
+  "NN NNP": {
+    "NN": {
+      "Left": 49
+    },
+    "NNP": {
+      "Right": 14,
+      "Left": 0
+    }
+  },
+  "VBD VBN": {
+    "VBN": {
+      "Right": 22,
+      "Left": 0
+    },
+    "VBD": {
+      "Left": 9
+    }
+  },
+  "VBN NN": {
+    "VBN": {
+      "Left": 29
+    },
+    "NN": {
+      "Right": 11,
+      "Left": 0
+    }
+  },
+  "NN NN": {
+    "NN": {
+      "Left": 97,
+      "Right": 135
+    }
+  },
+  "VBN .": {
+    "VBN": {
+      "Left": 21
+    }
+  },
+  "NN VBN": {
+    "VBN": {
+      "Right": 4,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 13
+    }
+  },
+  "RB VBN": {
+    "VBN": {
+      "Right": 13,
+      "Left": 0
+    }
+  },
+  "TO VB": {
+    "VB": {
+      "Right": 60,
+      "Left": 0
+    }
+  },
+  "VBN VB": {
+    "VBN": {
+      "Left": 6
+    },
+    "VB": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "NNP NNS": {
+    "NNS": {
+      "Right": 31,
+      "Left": 0
+    },
+    "NNP": {
+      "Left": 9
+    }
+  },
+  "NN NNS": {
+    "NNS": {
+      "Right": 74,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 54
+    }
+  },
+  "VB NNS": {
+    "VB": {
+      "Left": 26
+    }
+  },
+  "VBZ VBN": {
+    "VBN": {
+      "Right": 10,
+      "Left": 0
+    },
+    "VBZ": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "VBN VBD": {
+    "VBD": {
+      "Right": 3,
+      "Left": 0
+    },
+    "VBN": {
+      "Left": 3
+    }
+  },
+  "IN NNS": {
+    "NNS": {
+      "Right": 102,
+      "Left": 0
+    }
+  },
+  "NNS VBN": {
+    "NNS": {
+      "Left": 10
+    },
+    "VBN": {
+      "Right": 9,
+      "Left": 0
+    }
+  },
+  "TO PRP": {
+    "PRP": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "VBN NNS": {
+    "VBN": {
+      "Left": 19
+    },
+    "NNS": {
+      "Right": 7,
+      "Left": 0
+    }
+  },
+  ", VBD": {
+    "VBD": {
+      "Right": 25,
+      "Left": 0
+    }
+  },
+  "NNS VBD": {
+    "VBD": {
+      "Right": 21,
+      "Left": 0
+    },
+    "NNS": {
+      "Left": 3
+    }
+  },
+  "VBD .": {
+    "VBD": {
+      "Left": 111
+    }
+  },
+  "NNP NN": {
+    "NNP": {
+      "Left": 32
+    },
+    "NN": {
+      "Right": 74,
+      "Left": 0
+    }
+  },
+  "NNP CC": {
+    "NNP": {
+      "Left": 28
+    }
+  },
+  "WDT VBZ": {
+    "VBZ": {
+      "Right": 9,
+      "Left": 0
+    }
+  },
+  "NNP VBZ": {
+    "NNP": {
+      "Left": 3
+    },
+    "VBZ": {
+      "Right": 7,
+      "Left": 0
+    }
+  },
+  "CD NN": {
+    "NN": {
+      "Right": 37,
+      "Left": 0
+    },
+    "CD": {
+      "Left": 2
+    }
+  },
+  "VBZ NN": {
+    "VBZ": {
+      "Left": 10
+    },
+    "NN": {
+      "Right": 5,
+      "Left": 0
+    }
+  },
+  "NNP VBD": {
+    "VBD": {
+      "Right": 91,
+      "Left": 0
+    }
+  },
+  "VBD VBD": {
+    "VBD": {
+      "Left": 40,
+      "Right": 4
+    }
+  },
+  "PRP$ NN": {
+    "NN": {
+      "Right": 50,
+      "Left": 0
+    }
+  },
+  "VBD NN": {
+    "VBD": {
+      "Left": 93
+    },
+    "NN": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "IN $": {
+    "$": {
+      "Right": 32,
+      "Left": 0
+    }
+  },
+  "NN $": {
+    "NN": {
+      "Left": 18
+    }
+  },
+  "$ CD": {
+    "$": {
+      "Left": 61
+    }
+  },
+  "$ NN": {
+    "$": {
+      "Left": 17
+    },
+    "NN": {
+      "Right": 8,
+      "Left": 0
+    }
+  },
+  "$ ,": {
+    "$": {
+      "Left": 15
+    }
+  },
+  "$ CC": {
+    "$": {
+      "Left": 9
+    }
+  },
+  "$ $": {
+    "$": {
+      "Left": 6,
+      "Right": 2
+    }
+  },
+  "CD CD": {
+    "CD": {
+      "Right": 55,
+      "Left": 0
+    }
+  },
+  "PRP$ NNP": {
+    "NNP": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "TO NNP": {
+    "NNP": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  ". NNP": {
+    "NNP": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NN CC": {
+    "NN": {
+      "Left": 28
+    }
+  },
+  "DT NNS": {
+    "NNS": {
+      "Right": 32,
+      "Left": 0
+    }
+  },
+  "NNS CC": {
+    "NNS": {
+      "Left": 17
+    }
+  },
+  "NNS NN": {
+    "NNS": {
+      "Left": 44
+    },
+    "NN": {
+      "Right": 10,
+      "Left": 0
+    }
+  },
+  "JJ NNP": {
+    "NNP": {
+      "Right": 8,
+      "Left": 0
+    },
+    "JJ": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "NNS NNP": {
+    "NNS": {
+      "Left": 18
+    }
+  },
+  "PRP NN": {
+    "NN": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "NN VBP": {
+    "VBP": {
+      "Right": 3,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 2
+    }
+  },
+  ", VBP": {
+    "VBP": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "NN POS": {
+    "NN": {
+      "Left": 14
+    }
+  },
+  "VBG NNS": {
+    "NNS": {
+      "Right": 7,
+      "Left": 0
+    },
+    "VBG": {
+      "Left": 21
+    }
+  },
+  "NNS VBP": {
+    "VBP": {
+      "Right": 7,
+      "Left": 0
+    },
+    "NNS": {
+      "Left": 3
+    }
+  },
+  "TO NNS": {
+    "NNS": {
+      "Right": 9,
+      "Left": 0
+    }
+  },
+  "JJ NNS": {
+    "NNS": {
+      "Right": 99,
+      "Left": 0
+    },
+    "JJ": {
+      "Left": 4
+    }
+  },
+  "VBP NNS": {
+    "VBP": {
+      "Left": 4
+    }
+  },
+  "NNS NNS": {
+    "NNS": {
+      "Left": 29,
+      "Right": 5
+    }
+  },
+  "VBP .": {
+    "VBP": {
+      "Left": 4
+    }
+  },
+  "VBD NNP": {
+    "VBD": {
+      "Left": 22
+    }
+  },
+  "VBD ,": {
+    "VBD": {
+      "Left": 20
+    }
+  },
+  "VBD VBG": {
+    "VBD": {
+      "Left": 13
+    }
+  },
+  "VBG NN": {
+    "VBG": {
+      "Left": 27
+    },
+    "NN": {
+      "Right": 9,
+      "Left": 0
+    }
+  },
+  "VBD NNS": {
+    "VBD": {
+      "Left": 21
+    },
+    "NNS": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "VBG VBD": {
+    "VBD": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "VBG VB": {
+    "VBG": {
+      "Left": 8
+    }
+  },
+  "IN JJ": {
+    "JJ": {
+      "Right": 5,
+      "Left": 0
+    }
+  },
+  "VB JJ": {
+    "VB": {
+      "Left": 2
+    }
+  },
+  "IN CD": {
+    "CD": {
+      "Right": 15,
+      "Left": 0
+    }
+  },
+  "VBD CC": {
+    "VBD": {
+      "Left": 8
+    }
+  },
+  "PRP VB": {
+    "VB": {
+      "Right": 15,
+      "Left": 0
+    }
+  },
+  "VBD VB": {
+    "VBD": {
+      "Left": 27
+    },
+    "VB": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "VBD JJ": {
+    "JJ": {
+      "Right": 4,
+      "Left": 0
+    },
+    "VBD": {
+      "Left": 6
+    }
+  },
+  "RB JJ": {
+    "JJ": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "VBG JJ": {
+    "VBG": {
+      "Left": 2
+    },
+    "JJ": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "RB RB": {
+    "RB": {
+      "Right": 5,
+      "Left": 2
+    }
+  },
+  "NN RB": {
+    "NN": {
+      "Left": 3
+    }
+  },
+  "RB NN": {
+    "RB": {
+      "Left": 2
+    },
+    "NN": {
+      "Right": 7,
+      "Left": 0
+    }
+  },
+  "JJ VB": {
+    "JJ": {
+      "Left": 3
+    }
+  },
+  "JJR NN": {
+    "NN": {
+      "Right": 4,
+      "Left": 0
+    },
+    "JJR": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "VB $": {
+    "VB": {
+      "Left": 6
+    }
+  },
+  "NNP POS": {
+    "NNP": {
+      "Left": 34
+    }
+  },
+  "NNS ,": {
+    "NNS": {
+      "Left": 13
+    }
+  },
+  "IN JJR": {
+    "JJR": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NN JJR": {
+    "JJR": {
+      "Right": 2,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "VBD JJR": {
+    "VBD": {
+      "Left": 2
+    }
+  },
+  "DT NNPS": {
+    "NNPS": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "NNP NNPS": {
+    "NNPS": {
+      "Right": 8,
+      "Left": 0
+    },
+    "NNP": {
+      "Left": 2
+    }
+  },
+  "NNPS NNP": {
+    "NNP": {
+      "Right": 15,
+      "Left": 0
+    },
+    "NNPS": {
+      "Left": 3
+    }
+  },
+  "NNPS POS": {
+    "NNPS": {
+      "Left": 2
+    }
+  },
+  "PRP VBD": {
+    "VBD": {
+      "Right": 18,
+      "Left": 0
+    }
+  },
+  "NN VBZ": {
+    "VBZ": {
+      "Right": 9,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 8
+    }
+  },
+  "VBZ VB": {
+    "VBZ": {
+      "Left": 14
+    },
+    "VB": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "VB RB": {
+    "VB": {
+      "Left": 4
+    }
+  },
+  "CC NN": {
+    "NN": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "NN :": {
+    "NN": {
+      "Left": 4
+    }
+  },
+  "NN ,": {
+    "NN": {
+      "Left": 32
+    }
+  },
+  "VBZ .": {
+    "VBZ": {
+      "Left": 9
+    }
+  },
+  "DT NNP": {
+    "NNP": {
+      "Right": 50,
+      "Left": 0
+    }
+  },
+  "PRP VBG": {
+    "VBG": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "VBZ VBG": {
+    "VBG": {
+      "Right": 12,
+      "Left": 0
+    },
+    "VBZ": {
+      "Left": 3
+    }
+  },
+  "RB VBG": {
+    "VBG": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "NNS VBG": {
+    "NNS": {
+      "Left": 6
+    },
+    "VBG": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "IN VBG": {
+    "VBG": {
+      "Right": 22,
+      "Left": 0
+    }
+  },
+  "VBG VBG": {
+    "VBG": {
+      "Left": 5
+    }
+  },
+  "VB VB": {
+    "VB": {
+      "Left": 9,
+      "Right": 2
+    }
+  },
+  "JJS NN": {
+    "JJS": {
+      "Left": 2
+    },
+    "NN": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NN VB": {
+    "VB": {
+      "Right": 5,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 12
+    }
+  },
+  ", VB": {
+    "VB": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "WDT VBP": {
+    "VBP": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NN VBD": {
+    "VBD": {
+      "Right": 32,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 8
+    }
+  },
+  "VBD $": {
+    "VBD": {
+      "Left": 12
+    }
+  },
+  "MD VBN": {
+    "VBN": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "VB VBN": {
+    "VBN": {
+      "Right": 8,
+      "Left": 0
+    },
+    "VB": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "NN JJ": {
+    "NN": {
+      "Left": 9
+    },
+    "JJ": {
+      "Right": 7,
+      "Left": 0
+    }
+  },
+  "TO VBN": {
+    "VBN": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "VBN VBN": {
+    "VBN": {
+      "Left": 1,
+      "Right": 2
+    }
+  },
+  "NN CD": {
+    "NN": {
+      "Left": 5
+    }
+  },
+  "TO NN": {
+    "NN": {
+      "Right": 23,
+      "Left": 0
+    }
+  },
+  "WDT VBN": {
+    "VBN": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "VBP VBN": {
+    "VBN": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "VBN NNP": {
+    "VBN": {
+      "Left": 10
+    },
+    "NNP": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "NN VBG": {
+    "VBG": {
+      "Right": 5,
+      "Left": 0
+    },
+    "NN": {
+      "Left": 8
+    }
+  },
+  "JJ VBG": {
+    "JJ": {
+      "Left": 3
+    }
+  },
+  "VBG RB": {
+    "VBG": {
+      "Left": 5
+    }
+  },
+  "RB VBD": {
+    "VBD": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "VBG $": {
+    "VBG": {
+      "Left": 2
+    }
+  },
+  "VBN ,": {
+    "VBN": {
+      "Left": 6
+    }
+  },
+  "VBN VBG": {
+    "VBN": {
+      "Left": 8
+    }
+  },
+  "VB ,": {
+    "VB": {
+      "Left": 4
+    }
+  },
+  ", NN": {
+    "NN": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "$ JJ": {
+    "$": {
+      "Left": 3
+    }
+  },
+  "IN NNPS": {
+    "NNPS": {
+      "Right": 5,
+      "Left": 0
+    }
+  },
+  "DT $": {
+    "$": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "JJ $": {
+    "$": {
+      "Right": 2,
+      "Left": 0
+    },
+    "JJ": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "TO $": {
+    "$": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "NNP VBG": {
+    "VBG": {
+      "Right": 2,
+      "Left": 0
+    },
+    "NNP": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "VBP VBG": {
+    "VBG": {
+      "Right": 5,
+      "Left": 0
+    }
+  },
+  "$ NNS": {
+    "$": {
+      "Left": 7
+    }
+  },
+  "VBG RP": {
+    "VBG": {
+      "Left": 4
+    }
+  },
+  "IN VBD": {
+    "VBD": {
+      "Right": 14,
+      "Left": 0
+    }
+  },
+  "`` NNP": {
+    "NNP": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NNP ''": {
+    "NNP": {
+      "Left": 2
+    }
+  },
+  "-LRB- NNP": {
+    "NNP": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "NNP $": {
+    "NNP": {
+      "Left": 2
+    }
+  },
+  "NNP -RRB-": {
+    "NNP": {
+      "Left": 4
+    }
+  },
+  "VBP NN": {
+    "VBP": {
+      "Left": 3
+    }
+  },
+  "-LRB- $": {
+    "$": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "NNS $": {
+    "NNS": {
+      "Left": 2
+    }
+  },
+  "$ -RRB-": {
+    "$": {
+      "Left": 6
+    }
+  },
+  "NNS RB": {
+    "NNS": {
+      "Left": 2
+    }
+  },
+  "NN .": {
+    "NN": {
+      "Left": 5
+    }
+  },
+  "VBG CD": {
+    "VBG": {
+      "Left": 2
+    }
+  },
+  "PRP$ NNS": {
+    "NNS": {
+      "Right": 8,
+      "Left": 0
+    }
+  },
+  "RB VB": {
+    "VB": {
+      "Right": 11,
+      "Left": 0
+    }
+  },
+  "JJS NNS": {
+    "NNS": {
+      "Right": 3,
+      "Left": 0
+    },
+    "JJS": {
+      "Left": 2
+    }
+  },
+  "VBG .": {
+    "VBG": {
+      "Left": 6
+    }
+  },
+  ", VBN": {
+    "VBN": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "VB :": {
+    "VB": {
+      "Left": 2
+    }
+  },
+  "NN NNPS": {
+    "NN": {
+      "Left": 2
+    }
+  },
+  "NNPS CC": {
+    "NNPS": {
+      "Left": 3
+    }
+  },
+  "IN VB": {
+    "VB": {
+      "Right": 10,
+      "Left": 0
+    }
+  },
+  "NNS VB": {
+    "VB": {
+      "Right": 4,
+      "Left": 0
+    },
+    "NNS": {
+      "Left": 5
+    }
+  },
+  "WP VBP": {
+    "VBP": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "VBP VB": {
+    "VBP": {
+      "Left": 2
+    }
+  },
+  "JJR $": {
+    "$": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "JJR IN": {
+    "JJR": {
+      "Left": 4
+    }
+  },
+  "RB CD": {
+    "CD": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NNS :": {
+    "NNS": {
+      "Left": 4
+    }
+  },
+  "NN RBR": {
+    "NN": {
+      "Left": 2
+    },
+    "RBR": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "VBG NNP": {
+    "VBG": {
+      "Left": 5
+    }
+  },
+  "WDT VB": {
+    "VB": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NNP .": {
+    "NNP": {
+      "Left": 3
+    }
+  },
+  "NNP :": {
+    "NNP": {
+      "Left": 2
+    }
+  },
+  "VBN RP": {
+    "VBN": {
+      "Left": 2
+    }
+  },
+  "VBN VBZ": {
+    "VBN": {
+      "Left": 2
+    }
+  },
+  ", JJ": {
+    "JJ": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "VBP JJ": {
+    "JJ": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "IN PRP": {
+    "PRP": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "VBG CC": {
+    "VBG": {
+      "Left": 2
+    }
+  },
+  "JJ .": {
+    "JJ": {
+      "Left": 3
+    }
+  },
+  "VBZ NNP": {
+    "VBZ": {
+      "Left": 4
+    }
+  },
+  "PRP VBN": {
+    "VBN": {
+      "Right": 7,
+      "Left": 0
+    }
+  },
+  "VBZ JJ": {
+    "JJ": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "VB VBG": {
+    "VB": {
+      "Left": 5
+    },
+    "VBG": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "WRB VBD": {
+    "VBD": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "CD NNP": {
+    "NNP": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "PRP JJ": {
+    "JJ": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "PRP VBZ": {
+    "VBZ": {
+      "Right": 7,
+      "Left": 0
+    }
+  },
+  "VBD VBZ": {
+    "VBD": {
+      "Left": 7
+    },
+    "VBZ": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "IN VBZ": {
+    "VBZ": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "VBZ RB": {
+    "VBZ": {
+      "Left": 2
+    },
+    "RB": {
+      "Right": 1,
+      "Left": 0
+    }
+  },
+  "RB IN": {
+    "RB": {
+      "Left": 3
+    }
+  },
+  "JJ CD": {
+    "CD": {
+      "Right": 5,
+      "Left": 0
+    },
+    "JJ": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "VBD CD": {
+    "VBD": {
+      "Left": 3
+    }
+  },
+  "RB JJR": {
+    "JJR": {
+      "Right": 4,
+      "Left": 0
+    }
+  },
+  "VBG JJR": {
+    "VBG": {
+      "Left": 2
+    }
+  },
+  "NNS POS": {
+    "NNS": {
+      "Left": 2
+    }
+  },
+  "VBZ NNS": {
+    "VBZ": {
+      "Left": 4
+    }
+  },
+  "`` NN": {
+    "NN": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "NN ''": {
+    "NN": {
+      "Left": 4
+    }
+  },
+  "IN VBN": {
+    "VBN": {
+      "Right": 6,
+      "Left": 0
+    }
+  },
+  "NN PRP": {
+    "NN": {
+      "Left": 3
+    }
+  },
+  "WDT VBD": {
+    "VBD": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NN ``": {
+    "NN": {
+      "Left": 4
+    }
+  },
+  "VBZ ,": {
+    "VBZ": {
+      "Left": 2
+    }
+  },
+  "JJR NNS": {
+    "NNS": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "TO CD": {
+    "CD": {
+      "Right": 3,
+      "Left": 0
+    }
+  },
+  "CD $": {
+    "$": {
+      "Right": 4,
+      "Left": 0
+    },
+    "CD": {
+      "Left": 2
+    }
+  },
+  "VB JJR": {
+    "VB": {
+      "Left": 2
+    }
+  },
+  "JJR VB": {
+    "JJR": {
+      "Left": 2
+    }
+  },
+  "VBN IN": {
+    "VBN": {
+      "Left": 2
+    }
+  },
+  "VBD ''": {
+    "VBD": {
+      "Left": 2
+    }
+  },
+  ", VBZ": {
+    "VBZ": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "NNS NNPS": {
+    "NNS": {
+      "Left": 2
+    }
+  },
+  "# CD": {
+    "CD": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "CD ,": {
+    "CD": {
+      "Left": 3
+    }
+  },
+  "CD CC": {
+    "CD": {
+      "Left": 2
+    }
+  },
+  "VBG VBN": {
+    "VBG": {
+      "Left": 2
+    }
+  },
+  "NNPS NN": {
+    "NN": {
+      "Right": 2,
+      "Left": 0
+    },
+    "NNPS": {
+      "Left": 1,
+      "Right": 0
+    }
+  },
+  "VB CC": {
+    "VB": {
+      "Left": 2
+    }
+  },
+  ", NNP": {
+    "NNP": {
+      "Right": 2,
+      "Left": 0
+    }
+  },
+  "VB JJS": {
+    "VB": {
+      "Left": 2
+    }
+  }
+}
